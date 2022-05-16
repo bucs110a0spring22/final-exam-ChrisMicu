@@ -1,0 +1,3155 @@
+Country Code           City Name
+
+     US                007
+     US                019
+     US                037
+     US                039
+     US                047
+     US                051
+     US                077
+     CH                Aargau
+     MX                Abasolo
+     US                ABBEVILLE
+     GB                Aberdeen
+     US                Aberdeen
+     CI                Abidjan
+     AE                Abu Dhabi
+     GH                Accra
+     ES                A Coruña
+     US                ADA
+     US                ADAIR
+     US                ADAMS
+     TR                Adana
+     ET                Addis Ababa
+     AU                Adelaide
+     US                Adrian
+     GB                Adur
+     MK                Aerodrom Municipality
+     IN                Agartala
+     IN                Agra
+     TR                Ağrı
+     MX                Aguascalientes
+     IN                Ahmedabad
+     FR                Ain
+     FR                AIR BREIZH
+     FR                AIR NORMAND
+     FR                AIR PACA
+     FR                AIRPARIF
+     FR                AIR PAYS DE LA LOIRE
+     FR                AIR RHONE ALPES
+     FR                Aisne
+     IN                Aizawl
+     IN                Ajmer
+     US                Akron
+     IS                Akureyri
+     US                ALACHUA
+     US                ALAMEDA
+     RO                Alba
+     ES                Albacete
+     US                Albany
+     US                Albany-Lebanon
+     US                Albany-Schenectady-Troy
+     CA                ALBERTA
+     US                Albuquerque
+     IT                Alessandria
+     NO                Ålesund
+     US                ALEXANDER
+     IT                ALFONSINE
+     AU                Alfredton Fire
+     DZ                Algiers
+     ES                Alicante/Alacant
+     US                Allegan
+     US                ALLEGANY
+     US                Allentown-Bethlehem-Easton
+     FR                Allier
+     ES                Almeria
+     ES                Almería
+     MX                Almoloya de Juárez
+     FR                Alpes-de-Haute-Provence
+     FR                Alpes-Maritimes
+     CL                Alto Hospicio
+     AU                Altona North
+     AU                Altona North 1
+     AU                Altona North 2
+     US                Altoona
+     MX                Álvaro Obregón
+     IN                Alwar
+     LT                Alytus
+     US                AMADOR
+     IN                Amaravati
+     US                Amarillo
+     TR                Amasya
+     IN                Ambala
+     BR                Americana
+     US                Americus
+     US                Ames
+     JO                Amman
+     TH                Amnat Charoen
+     IN                Amritsar
+     NL                Amsterdam
+     AT                Amt der K�rntner Landesregierung
+     AT                Amt der Nieder�sterreichischen Landesregierung
+     AT                Amt der Ober�sterreichischen Landesregierung
+     AT                Amt der Salzburger Landesregierung
+     AT                Amt der Steierm�rkischen Landesregierung
+     US                Anchorage
+     US                ANCHORAGE
+     IT                Ancona
+     CL                Andacollo
+     US                Anderson
+     US                ANDERSON
+     US                ANDREW
+     TR                Ankara
+     IN                Ankleshwar
+     US                Ann Arbor
+     US                ANNE ARUNDEL
+     DE                Annette Pausch
+     CN                Anqing
+     CL                Antofagasta
+     BE                Antwerpen
+     MX                Apizaco
+     MX                Apodaca
+     US                Appleton
+     ES                Araba/Álava
+     BR                Araçatuba
+     RO                Arad
+     US                ARAPAHOE
+     BR                Araraquara
+     IN                Araria
+     US                ARCHULETA
+     FR                Ardèche
+     FR                Ardennes
+     US                Ardmore
+     IT                Arezzo
+     RO                Argeş
+     CL                Arica
+     FR                Ariège
+     US                Arkadelphia
+     GB                Armagh
+     NL                Arnhem
+     US                AROOSTOOK
+     IN                Arrah
+     TR                Artvin
+     IN                Asansol
+     IT                Ascoli Piceno
+     US                Asheville
+     TM                Ashgabat
+     US                ASHLAND
+     US                Ashtabula
+     US                ASOTIN
+     KZ                Astana
+     IT                Asti
+     GB                Aston Hill
+     ES                Asturias
+     US                Athens
+     US                Athens-Clarke County
+     MX                Atitalaquia
+     US                Atlanta
+     US                Atlanta-Sandy Springs-Marietta
+     US                Atlantic City
+     FR                ATMO AUVERGNE
+     FR                ATMO AUVERGNE-RH�NE-ALPES
+     FR                ATMO FRANCHE COMTE
+     FR                ATMO HAUTS DE FRANCE
+     FR                ATMO NORD-PAS-DE-CALAIS
+     FR                ATMO PICARDIE
+     MX                Atotonilco de Tula
+     MT                Attard
+     FR                Aube
+     GB                Auchencorth
+     US                Augusta-Richmond County
+     US                Augusta-Waterville
+     PL                Augustów
+     IN                Aurangabad
+     US                Austin-Round Rock
+     AT                Austria
+     PT                Aveiro
+     IT                Avellino
+     US                AVERY
+     FR                Aveyron
+     ES                Ávila
+     TR                Aydın
+     AU                Ayr
+     CL                Aysén
+     TH                Ayutthaya
+     MX                Azcapotzalco
+     MX                Azteca
+     RO                Bacău
+     HU                Bács-Kiskun
+     ES                Badajoz
+     IN                Baddi
+     DE                Baden-Württemberg
+     NL                Badhoevedorp
+     NO                Bærum
+     IN                Bagalkot
+     IQ                Baghdad
+     IN                Baghpat
+     IN                Bahadurgarh
+     AU                Bairnsdale
+     MX                BAJA CALIFORNIA NORTE
+     US                BAKER
+     US                Bakersfield
+     TR                Balıkesir
+     NL                Balk
+     IN                Ballabgarh
+     GB                Ballymena
+     US                BALTIMORE
+     US                BALTIMORE (CITY)
+     US                Baltimore-Towson
+     ML                Bamako
+     IE                Banbridge
+     ID                Bandung
+     TH                Bangkok
+     US                Bangor
+     US                BANNOCK
+     SK                Banskobystrický kraj
+     ME                Bar
+     US                Baraboo
+     HU                Baranya
+     CO                Barbosa
+     ES                Barcelona
+     IN                Barddhaman
+     IT                Bari
+     GB                Barking and Dagenham
+     IT                Barletta-Andria-Trani
+     GB                Barnsley
+     US                Barnstable Town
+     GB                Barnstaple
+     NL                Barsbeek
+     US                BARTHOLOMEW
+     CH                Basel-Landschaft
+     CH                Basel-Stadt
+     FR                Bas-Rhin
+     GB                Bath
+     IN                Bathinda
+     US                Baton Rouge
+     BR                Bauru
+     US                BAYAMON
+     US                Bay City
+     DE                Bayern
+     US                BEAUFORT
+     US                Beaumont-Port Arthur
+     US                BECKER
+     IN                Begusarai
+     CN                Beijing
+     GB                Belfast
+     US                Bellingham
+     CO                Bello
+     IT                Belluno
+     US                BELMONT
+     PL                Belsk
+     PL                Belsk Duży
+     US                BELTRAMI
+     US                Bend
+     AU                Bendigo
+     IT                Benevento
+     US                BENEWAH
+     IN                Bengaluru
+     CN                Bengbu
+     MX                Benito Juárez
+     US                Bennington
+     IT                Bergamo
+     NO                Bergen
+     US                BERKELEY
+     US                BERKS
+     US                BERKSHIRE
+     DE                Berlin
+     US                Berlin
+     CH                Bern
+     US                BERNALILLO
+     US                BETHEL
+     IN                Bettiah
+     NL                Beverwijk West
+     GB                Bexley
+     IN                Bhagalpur
+     IN                Bhilai
+     IN                Bhiwadi
+     IN                Bhiwani
+     IN                Bhopal
+     PL                Biała
+     PL                Biała Podlaska
+     PL                Białystok
+     IN                Bidar
+     NL                Biddinghuizen
+     IT                Biella
+     PL                Bielsko-Biała
+     NL                Biest Houtakker
+     US                BIG HORN
+     IN                Bihar Sharif
+     RO                Bihor
+     ME                Bijelo Polje
+     IN                Bilaspur
+     TR                Bilecik
+     GB                Billingham
+     US                Billings
+     NO                Birkenes
+     US                Birmingham
+     GB                Birmingham
+     US                Birmingham-Hoover
+     KG                Bishkek
+     US                Bishop
+     PL                Biskupiec
+     US                Bismarck
+     RO                Bistriţa-Năsaud
+     MK                Bitola Municipality
+     ES                Bizkaia
+     GB                Blackburn
+     GB                Blackpool
+     US                Blacksburg-Christiansburg-Radford
+     US                BLAINE
+     SE                Blekinge
+     US                Bloomington
+     US                Bloomington-Normal
+     NO                Bodø
+     CO                Bogota
+     US                BOISE
+     US                Boise City-Nampa
+     ZA                Bojanala Platinum
+     US                BOLIVAR
+     IT                Bologna
+     IT                BOLOGNA
+     TR                Bolu
+     IT                Bolzano/Bozen
+     US                BONNER
+     US                BOONE
+     PL                Borówiec
+     RS                Borski upravni okrug
+     HU                Borsod-Abaúj-Zemplén
+     PL                Borsukowizna
+     US                Boston
+     US                Boston-Cambridge-Quincy
+     BG                Botevgrad
+     NL                Botlek
+     RO                Botoşani
+     GB                Bottesford
+     FR                Bouches-du-Rhône
+     US                Boulder
+     US                BOULDER
+     US                BOUNDARY
+     GB                Bournemouth
+     US                Bowling Green
+     US                BOX ELDER
+     BE                Brabant wallon
+     GB                Bradford
+     US                BRADFORD
+     PT                Braga
+     RO                Brăila
+     US                Brainerd
+     IN                Brajrajnagar
+     DE                Brandenburg
+     RS                Braničevski upravni okrug
+     RO                Braşov
+     SK                Bratislavský kraj
+     NL                Breda
+     DE                Bremen
+     GB                Brent
+     IT                Brescia
+     NL                Breukelen
+     US                BREWSTER
+     US                Bridgeport-Stamford-Norwalk
+     US                Brigham City
+     AU                Bright
+     AU                Bright NE Planned Burns
+     GB                Brighton
+     GB                Brighton and Hove
+     IT                Brindisi
+     GB                Bristol
+     US                BRISTOL
+     CA                BRITISH COLUMBIA
+     HR                Brodsko-posavska
+     GB                Bromley
+     US                BROOKINGS
+     US                BROWN
+     US                Brownsville-Harlingen
+     NO                Brumunddal
+     US                Brunswick
+     US                BRUNSWICK
+     BE                Brussels-Capital Region
+     US                BRYAN
+     PL                Brzeg
+     RO                Bucureşti
+     HU                Budapest
+     TH                Bueng Kan
+     AR                Buenos Aires
+     ZA                Buffalo City Metro
+     US                Buffalo-Niagara Falls
+     IN                Bulandshahr
+     AU                Bulla North
+     AU                Bulla South
+     AT                Burgenland
+     ES                Burgos
+     TH                Buriram Province
+     US                BURKE
+     US                Burlington
+     US                Burlington-South Burlington
+     TR                Bursa
+     GB                Bury
+     GB                Bush Estate
+     AU                Bushfire Emergency - Lismore
+     US                BUTLER
+     US                BUTTE
+     IN                Buxar
+     RO                Buzău
+     PL                Bydgoszcz
+     US                CA8 - ARB
+     NL                Cabauw
+     US                CABELL
+     CL                Cabrero
+     ES                Cáceres
+     US                CACHE
+     US                CADDO
+     MX                Cadereyta Jiménez
+     US                Cadillac
+     ES                Cádiz
+     IT                Cagliari
+     MK                Cair Municipality
+     CL                Calama
+     RO                Călăraşi
+     US                CALAVERAS
+     CO                Caldas
+     MX                Calimaya
+     FR                Calvados
+     US                Cambridge
+     GB                Cambridge
+     GB                Camden
+     US                CAMERON
+     AU                Campbellfield
+     CL                Campiche
+     BR                Campinas
+     IT                Campobasso
+     TR                Çanakkale
+     AU                Canberra
+     AU                Cann River
+     ES                Cantabria
+     FR                Cantal
+     GB                Canterbury
+     US                Canton-Massillon
+     US                Cape Coral-Fort Myers
+     ZA                Cape Winelands
+     ZA                Capricorn
+     BR                Carapicuiba
+     BR                Carapicuíba
+     RO                Caraş-Severin
+     US                CARBON
+     ES                Carboneras
+     IT                Carbonia-Iglesias
+     GB                Cardiff
+     US                CARIBOU
+     GB                Carlisle
+     US                Carlsbad-Artesia
+     US                CARLTON
+     IT                CARPI
+     US                CARSON CITY
+     US                CARTER
+     US                CASCADE
+     IT                Caserta
+     US                Casper
+     US                CASS
+     ES                Castellón/Castelló
+     PT                Castelo Branco
+     US                CASWELL
+     BR                Catanduva
+     US                CATANO
+     IT                Catanzaro
+     CL                Catemu
+     CL                Cauquenes
+     HK                Causeway Bay
+     ES                CCAA Catalu�a
+     ES                CCAA Com. Valenciana
+     ES                CCAA Galicia
+     ES                CCAA Pa�s Vasco
+     SI                CE bolnica
+     US                CEDAR
+     US                Cedar Rapids
+     MX                Celaya
+     SI                CE Ljubljanska
+     MK                Centar Municipality
+     IT                CENTO
+     HK                Central
+     AU                Central Coast
+     FI                Central Finland
+     FI                Central Ostrobothnia
+     AU                Central Queensland
+     GB                Central Scotland
+     AU                Central Tablelands
+     HK                Central & Western
+     BR                Cerqueira César
+     CL                Cerrillos
+     CL                Cerro Navia
+     IT                CESENA
+     TH                Chachoengsao
+     CL                Chaitén
+     TH                Chaiyaphum
+     MX                Chalco
+     IN                Chamarajanagar
+     US                Chambersburg
+     US                CHAMPAIGN
+     US                Champaign-Urbana
+     IN                Chandigarh
+     IN                Chandrapur
+     FR                Charente
+     FR                Charente-Maritime
+     IN                Charkhi Dadri
+     US                CHARLESTON
+     US                Charleston-North Charleston
+     US                Charlotte-Gastonia-Concord
+     US                Charlottesville
+     GB                Charlton
+     GB                Chatham
+     US                Chattanooga
+     US                CHAUTAUQUA
+     US                CHELAN
+     PL                Chełm
+     PL                Chełmno
+     CN                Chengdu
+     IN                Chennai
+     GB                Chepstow
+     FR                Cher
+     GB                Chesterfield
+     US                CHESTERFIELD
+     US                Cheyenne
+     IN                Chhapra
+     TH                Chiang Mai
+     TH                Chiang Rai
+     US                Chicago
+     US                Chicago-Naperville-Joliet
+     GB                Chichester
+     US                Chico
+     IT                Chiesanuova
+     CL                Chiguayante
+     MX                Chihuahua
+     US                CHIHUAHUA STATE
+     IN                Chikkaballapur
+     IN                Chikkamagaluru
+     CL                Chillán
+     CN                Chizhou
+     PL                Chojnice
+     TH                Chon buri
+     TH                Chon Buri
+     AU                Churchill
+     US                CHURCHILL
+     CN                Chuzhou
+     PL                Ciechocinek
+     PL                Cieszyn
+     US                Cincinnati-Middletown
+     ZA                City of Cape Town
+     ZA                City  of  Ekurhuleni
+     ZA                City of Johannesburg
+     GB                City of London
+     US                City of The Dalles
+     ZA                City of Tshwane
+     ES                Ciudad Real
+     IT                Civitavecchia
+     US                CLACKAMAS
+     US                CLAIBORNE
+     US                CLALLAM
+     US                CLARK
+     US                Clarksville
+     US                Cleveland
+     US                Cleveland-Elyria-Mentor
+     US                Clinton
+     US                CLINTON
+     RO                Cluj
+     US                COCONINO
+     US                CODINGTON
+     US                Coeur d'Alene
+     IN                Coimbatore
+     PT                Coimbra
+     MX                Col. Indeco, Cd. Industrial
+     US                College Station-Bryan
+     LK                Colombo
+     US                Colorado Springs
+     IT                COLORNO
+     US                Columbia
+     US                COLUMBIA
+     US                Columbus
+     US                COLUSA
+     IT                Como
+     GN                Conakry
+     CL                Concepción
+     CL                Concón
+     US                Concord
+     RO                Constanţa
+     US                CONVERSE
+     US                COOK
+     US                Cookeville
+     US                COOS
+     CO                Copacabana
+     CL                Copiapó
+     CL                Coquimbo
+     ES                Córdoba
+     IE                Cork City
+     US                Corning
+     MX                Coronango
+     CL                Coronel
+     US                Corpus Christi
+     MX                Corregidora
+     FR                Corrèze
+     FR                Corse-du-Sud
+     US                Corsicana
+     TR                Çorum
+     US                Corvallis
+     IT                Cosenza
+     FR                Côte-d'Or
+     FR                Côtes-d'Armor
+     US                COTTON
+     RO                Covasna
+     GB                Coventry
+     CL                Coyhaique
+     MX                Coyoacán
+     GB                Crawley
+     IT                Cremona
+     FR                Creuse
+     GB                Crompton Way   OL2 8AQ
+     IT                Crotone
+     GB                Croydon
+     HU                Csongrád
+     MX                Cuajimalpa de Morelos
+     BR                Cubatão
+     ES                Cuenca
+     MX                Cuernavaca
+     US                CUMBERLAND
+     IT                Cuneo
+     CW                Curacao
+     CL                Curanilahue
+     CL                Curicó
+     US                CURRY
+     US                CUSTER
+     US                CUYAHOGA
+     PL                Czerniawa
+     PL                Czerwionka-Leszczyny
+     PL                Częstochowa
+     PL                Dąbrowa Górnicza
+     US                DADE
+     DE                Dagmar Gömer
+     US                DAKOTA
+     SE                Dalarna
+     US                Dallas
+     US                Dallas-Fort Worth-Arlington
+     US                Dalton
+     RO                Dâmboviţa
+     IN                Damoh
+     DK                Danish Air Quality Monitoring Programme
+     DK                Danish Background Monitoring Network
+     US                Daphne-Fairhope
+     IN                Darbhanga
+     GB                Dartford
+     IN                Davanagere
+     US                Davenport-Moline-Rock Island
+     US                Dayton
+     PL                Dębica
+     US                Decatur
+     IN                Dehradun
+     US                DE KALB
+     IN                Delhi
+     US                DEL NORTE
+     US                DELTA
+     US                Deltona-Daytona Beach-Ormond Beach
+     US                Deming
+     NL                Den Haag
+     TR                Denizli
+     US                DENVER
+     US                Denver-Aurora
+     GB                Derby
+     NL                De Rijp
+     NL                De Rips
+     GB                Derry
+     US                DESCHUTES
+     SI                Deskle
+     US                Des Moines
+     US                Detroit-Warren-Livonia
+     FR                Deux-Sèvres
+     IN                Dewas
+     US                DEWEY
+     NL                De Zilk
+     BD                Dhaka
+     SA                Dharan
+     IN                Dharuhera
+     PL                Diabla Góra
+     BR                Diadema
+     US                Dickinson
+     LU                Diekirch
+     BG                Dimitrovgrad
+     MX                DISTRITO FEDERAL
+     US                DODGE
+     US                Dodge City
+     RO                Dolj
+     US                DONA ANA
+     GB                Doncaster
+     US                DOOR
+     US                DORCHESTER
+     FR                Dordogne
+     NL                Dordrecht
+     FR                Doubs
+     US                DOUGLAS
+     US                Dover
+     NO                Drammen
+     XK                Drenas
+     ZA                Dr Kenneth Kaunda
+     FR                Drôme
+     IE                Dublin City
+     US                DuBois
+     HR                Dubrovacko-neretvanska
+     US                DUCHESNE
+     US                Duluth
+     GB                Dumbarton
+     GB                Dumfries
+     IE                Dunlaoghaire-Rathdown
+     US                DUNN
+     US                Durango
+     MX                Durango
+     IN                Durgapur
+     US                Durham
+     TJ                Dushanbe
+     PL                Duszniki-Zdrój
+     US                DUVAL
+     US                Dyersburg
+     PL                Działoszyn
+     PL                Dzierżoniów
+     US                Eagle Pass
+     GB                Ealing
+     GB                Eastbourne
+     HK                Eastern
+     US                East Liverpool-Salem
+     US                East Stroudsburg
+     US                EAU CLAIRE
+     MX                Ecatepec de Morelos
+     US                EDDY
+     GB                Edinburgh
+     TR                Edirne
+     US                Effingham
+     NL                Eibergen
+     NL                Eindhoven
+     PL                Elbląg
+     CL                El Bosque
+     US                El Centro
+     US                El Dorado
+     US                Elizabethtown
+     PL                Ełk
+     US                Elkhart-Goshen
+     US                ELKO
+     US                Ellensburg
+     MX                El Marqués
+     IN                Eloor
+     US                El Paso
+     MX                El Salto
+     NO                Elverum
+     GB                Enfield
+     NL                Enschede
+     CO                Envigado
+     US                Erie
+     US                ERIE
+     IN                Ernakulam
+     TR                Erzincan
+     TR                Erzurum
+     AD                Escaldes-Engordany
+     GB                Eskdalemuir
+     TR                Eskişehir
+     US                ESSEX
+     FR                Essonne
+     ZA                eThekwini Metro
+     US                Eugene-Springfield
+     FR                Eure
+     FR                Eure-et-Loir
+     US                Evanston
+     US                Evansville
+     PT                Évora
+     GB                Exeter
+     IT                FAENZA
+     US                Fairbanks
+     US                FAIRFIELD
+     US                Fargo
+     IN                Faridabad
+     US                Farmington
+     PT                Faro
+     IN                Fatehabad
+     US                FAYETTE
+     US                Fayetteville
+     US                Fayetteville-Springdale-Rogers
+     HU                Fejér
+     US                FERGUS
+     IT                Ferrara
+     IT                FERRARA
+     ZA                Fezile Dabi
+     NL                Fijnaart
+     IE                Fingal
+     FR                Finistère
+     IT                FIORANO MODENESE
+     IT                Firenze
+     IN                Firozabad
+     US                FLAGLER
+     US                Flagstaff
+     BE                Flanders
+     US                FLATHEAD
+     US                Flint
+     US                Florence
+     US                Florence-Muscle Shoals
+     PL                Florianka
+     IT                Foggia
+     US                Fond du Lac
+     US                FOREST
+     IT                FORLI'
+     IT                Forli'-Cesena
+     US                Fort Collins-Loveland
+     FR                Fort-De-France
+     US                Fort Smith
+     US                Fort Walton Beach-Crestview-Destin
+     US                Fort Wayne
+     GB                Fort William
+     US                FRA
+     MX                Fraccionamiento Real Universidad
+     US                FRANKLIN
+     NO                Fredrikstad
+     CL                Freirina
+     FR                French Guiana
+     US                Fresno
+     US                FRESNO
+     IT                Frosinone
+     US                FS1 - Forest Service
+     BG                Gabrovo
+     IN                Gadag
+     US                Gadsden
+     US                GAGE
+     US                Gainesville
+     PL                Gajew
+     RO                Galaţi
+     US                GALLATIN
+     US                GALLIA
+     IN                Gandhinagar
+     IN                Gangtok
+     MX                García
+     FR                Gard
+     ZA                Garden Route
+     US                GARFIELD
+     US                GARRETT
+     SE                Gävle
+     IN                Gaya
+     MK                Gazi Baba Municipality
+     US                GBU
+     PL                Gdańsk
+     PL                Gdynia
+     AU                Geelong
+     NL                Geleen
+     AT                Gemeinde Wien, MA22 Umweltschutz
+     MX                General Escobedo
+     CH                Genève
+     IT                Genova
+     US                Georgetown
+     FR                Gers
+     ZA                Gert Sibande
+     US                Gettysburg
+     MT                Gharb
+     IN                Ghaziabad
+     GI                Gibraltar
+     US                GILA
+     US                GILES
+     US                Gillette
+     US                GILMER
+     US                GILPIN
+     ES                Gipuzkoa
+     CO                Girardota
+     TR                Giresun
+     ES                Girona
+     FR                Gironde
+     RO                Giurgiu
+     XK                Gjilan
+     NO                Gjøvik
+     AU                Gladstone
+     GB                Glasgow
+     GB                Glazebury
+     US                GLENN
+     PL                Gliwice
+     PL                Głubczyce
+     PL                Goczałkowice-Zdrój
+     PL                Gołdap
+     PL                Gołuchów
+     MX                Gómez Palacio
+     IN                Gorakhpur
+     BA                Goražde
+     RO                Gorj
+     ME                Gornje Mrke
+     PL                Gorzów Wielkopolski
+     US                GOSHEN
+     SE                Gotland
+     RS                Grad Beograd
+     US                GRADY
+     HR                Grad Zagreb
+     US                GRAHAM
+     BR                Grajaú-Parelheiros
+     PL                Grajewo
+     ES                Granada
+     US                Granbury
+     US                Grand Island
+     US                Grand Junction
+     US                Grand Rapids-Wyoming
+     GB                Grangemouth
+     PL                Granica
+     US                GRANT
+     US                Grants Pass
+     US                GRANVILLE
+     GB                Great Dun Fell
+     IN                Greater Noida
+     US                Greeley
+     US                Green Bay
+     US                GREENBRIER
+     US                GREENE
+     US                Greensboro-High Point
+     US                Greenville
+     GB                Greenwich
+     NO                Grenland
+     LU                Grevenmacher
+     IS                Grindavík
+     NL                Groningen
+     IT                Grosseto
+     PL                Grudziądz
+     IS                Grundartangi
+     ES                Guadalajara
+     MX                Guadalajara
+     MX                Guadalupe
+     FR                Guadeloupe
+     MX                Guanajuato
+     MX                GUANAJUATO
+     CN                Guangzhou
+     BR                Guaratinguetá
+     BR                Guarulhos
+     IT                GUASTALLA
+     GT                Guatemala City
+     PL                Gubin
+     US                Gulfport-Biloxi
+     IN                Gummidipoondi
+     US                GUNNISON
+     IN                Gurugram
+     MX                Gustavo A. Madero
+     PL                Guty Duże
+     IN                Guwahati
+     IN                Gwalior
+     HU                Gyor-Moson-Sopron
+     NL                Haarlem
+     GB                Hackney
+     IS                Hafnarfjörður
+     US                Hagerstown-Martinsburg
+     BE                Hainaut
+     HU                Hajdú-Bihar
+     IN                Hajipur
+     NO                Halden
+     IN                Haldia
+     SE                Halland
+     NO                Hamar
+     DE                Hamburg
+     US                HAMILTON
+     US                HAMPDEN
+     GB                Hampshire
+     US                HANCOCK
+     US                Hanford-Corcoran
+     XK                Hani i Elezit
+     VN                Hanoi
+     IN                Hapur
+     RO                Harghita
+     GB                Haringey
+     EE                Harjumaa
+     US                HARNEY
+     US                Harriman
+     US                HARRIS
+     US                Harrisburg-Carlisle
+     US                Harrison
+     US                Harrisonburg
+     GB                Harrow
+     NO                Harstad
+     US                HARTFORD
+     US                Hartford-West Hartford-East Hartford
+     IN                Hassan
+     GB                Hastings
+     TR                Hatay
+     US                Hattiesburg
+     FR                Haute-Corse
+     FR                Haute-Garonne
+     FR                Haute-Loire
+     FR                Haute-Marne
+     FR                Hautes-Alpes
+     FR                Haute-Saône
+     FR                Haute-Savoie
+     FR                Hautes-Pyrénées
+     FR                Haute-Vienne
+     FR                Haut-Rhin
+     FR                Hauts-de-Seine
+     IN                Haveri
+     GB                Havering
+     US                HAWAII
+     US                HAYWOOD
+     AU                Healesville
+     NL                Heerlen
+     CN                Hefei
+     DE                Heinz Ott
+     US                Helena
+     NL                Hellendoorn
+     US                HENDERSON
+     US                HENNEPIN
+     FR                Hérault
+     DE                Hessen
+     US                Hickory-Lenoir-Morganton
+     GB                High Muffles
+     US                HILLSBOROUGH
+     US                Hilo
+     NL                Hilversum
+     IN                Hisar
+     CZ                Hlavní město Praha
+     US                Hobbs
+     VN                Ho Chi Minh City
+     NL                Hoek v. Holland
+     US                Holland-Grand Haven
+     US                HOLMES
+     US                Homosassa Springs
+     NO                Hønefoss
+     HK                Hong Kong
+     GB                Honiton
+     US                Honolulu
+     US                HOOD RIVER
+     NL                Hoofddorp
+     NL                Hoogvliet
+     GB                Horsham
+     NL                Horst a/d Maas
+     PL                Horyniec-Zdrój
+     US                HOT SPRINGS
+     US                Houma-Bayou Cane-Thibodaux
+     US                Houston
+     US                Houston-Sugar Land-Baytown
+     DK                Hovedstaden
+     US                HOWARD
+     IN                Howrah
+     SI                Hrastnik
+     CN                Huainan
+     CL                Hualpén
+     CL                Hualqui
+     CL                Huasco
+     IN                Hubballi
+     ES                Huelva
+     ES                Huesca
+     US                HUGHES
+     MX                Huichapan
+     NL                Huijbergen
+     GB                Hull
+     US                HUMBOLDT
+     RO                Hunedoara
+     US                Huntington
+     US                Huntington-Ashland
+     US                Huntsville
+     NO                Hurdal
+     US                HURON
+     IS                Húsavík
+     IN                Hyderabad
+     RO                Ialomiţa
+     RO                Iaşi
+     US                IDAHO
+     US                Idaho Falls
+     EE                Ida-Virumaa
+     TR                Iğdır
+     NL                IJmuiden
+     RO                Ilfov
+     PT                Ilha da Madeira
+     PT                Ilha do Faial
+     BA                Ilijaš
+     MK                Ilinden Municipality
+     AU                Illawarra
+     FR                Ille-et-Vilaine
+     ES                Illes Balears
+     FI                Ilmatieteen laitoksen verkko
+     NG                Ilorin
+     IT                IMOLA
+     IT                Imperia
+     IN                Imphal
+     AU                Incident Monitoring
+     CL                Independencia
+     IN                India
+     US                Indiana
+     US                Indianapolis
+     IN                Indore
+     FR                Indre
+     FR                Indre-et-Loire
+     DE                Ingrid Zell
+     PL                Inowrocław
+     GB                Inverness
+     US                INYO
+     US                Iowa City
+     MX                Irapuato
+     US                IRON
+     FR                Isère
+     SI                Iskrba
+     PK                Islamabad
+     US                ISLAND
+     GB                Islington
+     TR                İstanbul
+     HR                Istarska
+     CO                Itagüí
+     US                Ithaca
+     MX                Izcalli Cuahutémoc V
+     TR                İzmir
+     MX                Iztacalco
+     MX                Iztapalapa
+     IN                Jabalpur
+     BR                Jacareí
+     US                Jackson
+     US                JACKSON
+     US                Jacksonville
+     ES                Jaén
+     IN                Jaipur
+     BA                Jajce
+     ID                Jakarta
+     IN                Jalandhar
+     MX                JALISCO
+     SE                Jämtland
+     PL                Janów Lubelski
+     PL                Jarczew
+     PL                Jarosław
+     PL                Jasło
+     PL                Jastrzębie-Zdrój
+     BR                Jaú
+     PL                Jawor
+     PL                Jedlina-Zdrój
+     PL                Jędrzejów
+     US                JEFFERSON
+     US                Jefferson City
+     PL                Jelenia Góra
+     US                JEROME
+     US                JERSEY
+     IN                Jhansi
+     CZ                Jihočeský
+     CZ                Jihomoravský
+     IN                Jind
+     DE                Joachim Lehmhaus
+     US                JO DAVIESS
+     IN                Jodhpur
+     EE                Jõgevamaa
+     US                JOHNSON
+     US                JOHNSTON
+     US                Johnstown
+     IT                JOLANDA DI SAVOIA
+     US                Joplin
+     IN                Jorapokhar
+     US                JOSEPHINE
+     MX                Juárez
+     BR                Jundiaí
+     US                JUNEAU
+     FR                Jura
+     RS                Južnobački upravni okrug
+     RS                Južnobanatski upravni okrug
+     AF                Kabul
+     TR                Kahramanmaraş
+     US                Kahului-Wailuku
+     FI                Kainuu
+     IN                Kaithal
+     BA                Kakanj
+     IN                Kalaburagi
+     IN                Kalaburgi
+     US                Kalamazoo-Portage
+     TH                Kalasin
+     US                Kalispell
+     PL                Kalisz
+     IN                Kalyan
+     PL                Kamienna Góra
+     PL                Kamień Pomorski
+     UG                Kampala
+     TH                Kamphaeng Phet
+     US                KANAWHA
+     TH                Kanchanaburi
+     IN                Kannur
+     IN                Kanpur
+     US                Kansas City
+     TR                Karabük
+     PK                Karachi
+     CZ                Karlovarský
+     IN                Karnal
+     AT                Kärnten
+     PL                Karpacz
+     MK                Karpos Municipality
+     TR                Kars
+     NO                Kårvatn
+     PL                Kaszów
+     NP                Kathmandu
+     IN                Katihar
+     IN                Katni
+     PL                Katowice
+     LT                Kaunas
+     MK                Kavadarci Municipality
+     TR                Kayseri
+     PL                Kazimierza Wielka
+     AU                Kealba
+     PL                Kędzierzyn-Koźle
+     US                Keene
+     US                Kennewick-Richland-Pasco
+     US                KENOSHA
+     US                KENT
+     US                KERN
+     IE                Kerry
+     IN                Khanna
+     SD                Khartoum
+     TH                Khon Kaen
+     MK                Kicevo Municipality
+     PL                Kielce
+     RW                Kigali
+     IE                Kilkenny
+     US                Killeen-Temple-Fort Hood
+     US                KING
+     ZA                King Cetshwayo
+     US                KINGS
+     US                Kingsport-Bristol-Bristol
+     GB                Kingston
+     US                Kingsville
+     AU                Kingsville
+     US                Kinston
+     US                KIOWA
+     TR                Kırklareli
+     IN                Kishanganj
+     US                KITSAP
+     LT                Klaipeda
+     US                KLAMATH
+     US                Klamath Falls
+     US                KLICKITAT
+     PL                Kłodzko
+     US                KNOX
+     US                Knoxville
+     TR                Kocaeli
+     MK                Kocani Municipality
+     IN                Kochi
+     IN                Kohima
+     US                Kokomo
+     IN                Kolar
+     IN                Kolkata
+     IN                Kollam
+     NL                Kollumerwaard
+     PL                Kołobrzeg
+     RS                Kolubarski upravni okrug
+     HU                Komárom-Esztergom
+     PL                Koniczynka
+     PL                Konin
+     PL                Końskie
+     PL                Konstancin-Jeziorna
+     TR                Konya
+     US                KOOTENAI
+     IS                Kópavogur
+     SI                Koper
+     IN                Koppal
+     PL                Kościerzyna
+     SK                Košický kraj
+     PL                Kostrza
+     PL                Koszalin
+     IN                Kota
+     ME                Kotor
+     HK                Kowloon
+     IN                Kozhikode
+     PL                Koziegłowy
+     PL                Kraków
+     CZ                Královéhradecký
+     SI                Kranj
+     HR                Krapinsko-zagorska
+     PL                Krapkowice
+     PL                Krasnobród
+     PL                Krempna
+     NO                Kristiansand
+     SE                Kronoberg
+     PL                Krosno
+     PL                Krynica-Zdrój
+     PL                Krzyżówka
+     MK                Kumanovo Municipality
+     IN                Kurukshetra
+     IN                Kurukshetra 
+     TR                Kütahya
+     PL                Kutno
+     KW                Kuwait City
+     FI                Kymenlaakso
+     EE                Lääne-Virumaa
+     US                Laconia
+     US                La Crosse
+     PL                Lądek-Zdrój
+     GB                Ladybower
+     CO                La Estrella
+     US                Lafayette
+     CL                La Florida
+     US                La Grande
+     PK                Lahore
+     CL                Laja
+     US                LAKE
+     US                Lake Charles
+     US                Lake City
+     US                Lake Havasu City-Kingman
+     US                Lakeland
+     AU                Lake Macquarie
+     AU                Lakes Entrance
+     GB                Lambeth
+     TH                Lampang
+     TH                Lamphun
+     US                Lancaster
+     US                LANCASTER
+     FR                Landes
+     IT                LANGHIRANO
+     US                Lansing-East Lansing
+     IE                Laois
+     US                LA PAZ
+     FI                Lapland
+     IT                L'Aquila
+     US                Laramie
+     US                Laredo
+     NL                Laren
+     US                LARIMER
+     ES                La Rioja
+     CL                Las Condes
+     US                Las Cruces
+     PL                Łask
+     ES                Las Palmas
+     IT                La Spezia
+     US                Las Vegas-Paradise
+     US                LATAH
+     IT                Latina
+     PL                Latoszyn
+     CL                La Unión
+     AU                Laverton North
+     US                Lawrenceburg
+     US                Lawton
+     GB                Leamington Spa
+     PL                Łeba
+     US                Lebanon
+     US                LEBANON
+     PL                Lębork
+     IT                Lecce
+     IT                Lecco
+     US                LEE
+     GB                Leeds
+     PL                Legionowo
+     PL                Legnica
+     GB                Leicester
+     NL                Leiden
+     PT                Leiria
+     US                LEMHI
+     GB                Leominster
+     MX                León
+     ES                León
+     MX                Lerdo
+     GB                Lerwick
+     NO                Levanger
+     GB                Lewes
+     US                LEWIS
+     US                LEWIS AND CLARK
+     GB                Lewisham
+     US                Lewiston
+     US                Lewiston-Auburn
+     US                Lexington-Fayette
+     CZ                Liberecký
+     US                LIBERTY
+     US                LICKING
+     HR                Licko-senjska
+     BE                Liege
+     LV                Liepaja
+     FR                LIG'AIR
+     NO                Lillehammer
+     NO                Lillesand
+     NO                Lillestrøm
+     US                Lima
+     PE                Lima
+     BE                Limburg
+     BR                Limeira
+     IE                Limerick
+     CL                Linares
+     US                Lincoln
+     GB                Lincoln
+     US                LINCOLN
+     US                Lincolnton
+     PL                Liniewko Kościerskie
+     US                LINN
+     PT                Lisboa
+     US                Little Rock-North Little Rock
+     GB                Liverpool
+     IT                Livorno
+     SI                LJ Bežigrad
+     SI                LJ Celovška
+     SI                LJ Vič
+     CL                Llayllay
+     ES                Lleida
+     IT                Lodi
+     PL                Łódź
+     TH                Loei
+     FR                Loire
+     FR                Loire-Atlantique
+     FR                Loiret
+     FR                Loir-et-Cher
+     MX                Lomas Lindas
+     PL                Łomża
+     GB                London
+     IE                Longford
+     US                Long Island
+     US                Longview
+     TH                Lopburi
+     NO                Lørenskog
+     CL                Los Andes
+     CL                Los Angeles
+     US                Los Angeles
+     US                LOS ANGELES
+     US                Los Angeles-Long Beach-Santa Ana
+     HR                Loški Potok
+     FR                Lot-et-Garonne
+     GB                Lough Navar
+     US                Louisville
+     AU                Lower Hunter
+     CN                Lu'an
+     PL                Lubań
+     US                Lubbock
+     PL                Lublin
+     PL                Lubliniec
+     IT                Lucca
+     CH                Lucerne
+     IN                Lucknow
+     IN                Ludhiana
+     IT                LUGAGNANO VAL D'ARDA
+     ES                Lugo
+     BA                Lukavac
+     GB                Lullington Heath
+     GB                Luton
+     BE                Luxembourg
+     LU                Luxemburg
+     PL                Lwówek Śląski
+     US                LYCOMING
+     US                LYON
+     CN                Ma'anshan
+     NL                Maassluis
+     NL                Maastricht
+     GB                Mace Head
+     IT                Macerata
+     CL                Machalí
+     US                Macon
+     US                MACON
+     US                Madera
+     IN                Madikeri
+     US                Madison
+     US                MADISON
+     ES                Madrid
+     TH                Mae Hong Son
+     US                MAHONING
+     IN                Maihar
+     FR                Maine-et-Loire
+     ES                Malaga
+     ES                Málaga
+     PL                Malbork
+     US                MALHEUR
+     AU                Mallacoota
+     PL                Małogoszcz
+     US                Malone
+     US                Mammoth Cave NP
+     BH                Manama
+     US                MANATEE
+     FR                Manche
+     GB                Manchester
+     US                Manchester-Nashua
+     IN                Mandideep
+     IN                Mandi Gobindgarh
+     IN                Mandikhera
+     IN                Manesar
+     DE                Manfred Lotz
+     IN                Mangalore
+     ZA                Mangaung  Metro
+     IN                Manglore
+     IN                Manguraha
+     PH                Manila
+     TR                Manisa
+     US                MANISTEE
+     CA                MANITOBA
+     US                Manitowoc
+     IT                Mantova
+     RO                Maramureş
+     ES                Marbella
+     US                MARICOPA
+     BR                Marília
+     US                MARION
+     US                MARIPOSA
+     GB                Market Harborough
+     AU                Marlo
+     FR                Marne
+     US                Marshall
+     US                MARTIN
+     FR                Martinique
+     US                MASON
+     IT                Massa-Carrara
+     US                MATANUSKA-SUSITNA
+     IT                Matera
+     BR                Mauá
+     US                MAUI
+     MK                Mavrovo and Rostusa Municipality
+     US                MAYAGUEZ
+     FR                Mayenne
+     US                MAYES
+     IE                Mayo
+     SI                MB Titova
+     SI                MB Vrbanski
+     US                McAlester
+     US                McAllen-Edinburg-Mission
+     US                MC CLAIN
+     US                MC KENZIE
+     DE                Mecklenburg-Vorpommern
+     CO                Medellin
+     US                Medford
+     IN                Meerut
+     RO                Mehedinţi
+     US                MEIGS
+     CL                Mejillones
+     AU                Melbourne
+     AU                Melton
+     US                Memphis
+     US                MENDOCINO
+     US                Merced
+     US                MERCER
+     MX                Mérida
+     US                Meridian
+     US                MERRIMACK
+     AU                Merriwa
+     TR                Mersin
+     GB                Merton
+     US                Mesa
+     FR                Meurthe-et-Moselle
+     FR                Meuse
+     MX                Mexicali
+     MX                MEXICO STATE
+     IT                MEZZANI
+     US                Miami
+     US                MIAMI - DADE
+     US                Miami-Fort Lauderdale-Miami Beach
+     US                Michigan City-La Porte
+     US                Middlesborough
+     GB                Middlesbrough
+     US                MIDDLESEX
+     AU                Mid-north Coast
+     DK                Midtjylland
+     PL                Mielec
+     MX                Miguel Hidalgo
+     IT                Milano
+     AU                Mildura
+     PL                Milicz
+     US                MILLE LACS
+     US                MILWAUKEE
+     US                Milwaukee-Waukesha-West Allis
+     MX                Minatitlán
+     US                MINERAL
+     US                MINIDOKA
+     US                Minneapolis-St. Paul-Bloomington
+     US                MINNEHAHA
+     PL                Mińsk Mazowiecki
+     IT                MIRANDOLA
+     US                MISSOULA
+     US                MITCHELL
+     XK                Mitrovice
+     US                Mobile
+     IT                Modena
+     IT                MODENA
+     US                Modesto
+     AU                Moe
+     US                MOFFAT
+     PL                Mogilno
+     NO                Mo i Rana
+     IT                MOLINELLA
+     IE                Monaghan
+     MX                Monclova
+     US                MONO
+     US                Monroe
+     US                MONROE
+     US                MONTEREY
+     MX                Monterrey
+     US                MONTEZUMA
+     US                Montgomery
+     US                MONTGOMERY
+     US                MONTROSE
+     IT                Monza E Della Brianza
+     ZA                Mopani
+     IN                Moradabad
+     RS                Moravički upravni okrug
+     CZ                Moravskoslezský
+     FR                Morbihan
+     US                Morehead City
+     MX                Morelia
+     US                MORGAN
+     US                Morgantown
+     US                Morristown
+     AU                Morwell
+     RU                Moscow
+     US                Moscow
+     FR                Moselle
+     US                Moses Lake
+     PL                Mosina
+     NO                Moss
+     IN                Motihari
+     AU                Mount Isa
+     US                Mount Vernon
+     US                Mount Vernon-Anacortes
+     AU                MRI Campbellfield fire
+     SI                MS Cankarjeva
+     MT                Msida
+     SI                MS Rakičan
+     PL                Mszana Dolna
+     US                MT1
+     AU                Mt Isa
+     TR                Muğla
+     TH                Mukdahan
+     US                MULTNOMAH
+     IN                Mumbai
+     US                Muncie
+     IN                Munger
+     ES                Murcia
+     RO                Mureş
+     US                Muscatine
+     US                MUSCATINE
+     CL                Museo Ferroviario
+     US                Muskegon-Norton Shores
+     US                Muskogee
+     AU                Muswellbrook
+     IN                Muzaffarnagar
+     IN                Muzaffarpur
+     US                Myrtle Beach-Conway-North Myrtle Beach
+     PL                Myślenice
+     IN                Mysuru
+     VM                N/A
+     TX                N/A
+     AE                N/A
+     AF                N/A
+     AR                N/A
+     IZ                N/A
+     JO                N/A
+     KG                N/A
+     KV                N/A
+     KZ                N/A
+     CH                N/A
+     CE                N/A
+     CA                N/A
+     MA                N/A
+     MD                N/A
+     GB                N/A
+     BM                N/A
+     BK                N/A
+     TI                N/A
+     BG                N/A
+     UZ                N/A
+     SU                N/A
+     GT                N/A
+     PK                N/A
+     US                N/A
+     MX                N/A
+     SA                N/A
+     RW                N/A
+     ET                N/A
+     QA                N/A
+     NI                N/A
+     CL                Nacimiento
+     IN                Nagpur
+     IN                Naharlagun
+     KE                Nairobi
+     TH                Nakhon Nayok
+     TH                Nakhon Pathom
+     TH                Nakhon Phanom
+     TH                Nakhon Ratchasima
+     TH                Nakhon Sawan
+     TH                Nakhon Si Thammarat
+     PL                Nakło nad Notecią
+     PL                Nałęczów
+     ZA                Namakwa
+     BE                Namur
+     TH                Nan
+     IN                Nandesari
+     US                Napa
+     US                Naples-Marco Island
+     IT                Napoli
+     TH                Narathiwat
+     GB                Narberth
+     IN                Narnaul
+     NO                Narvik
+     IN                Nashik
+     US                Nashville-Davidson--Murfreesboro
+     US                NASSAU
+     CZ                National automated monitoring network (SIS)
+     MX                Naucalpan de Juárez
+     US                NAVAJO
+     ES                Navarra
+     IN                Navi Mumbai
+     US                NC1
+     TD                N'Djamena
+     RO                Neamţ
+     ZA                Nelson Mandela Bay Metro
+     US                NEOSHO
+     CH                Neuchâtel
+     US                Newark Area
+     AU                Newborough
+     CA                NEW BRUNSWICK
+     GB                Newcastle
+     US                New Castle
+     US                NEW CASTLE
+     CA                NEWFOUNDLAND
+     GB                Newham
+     US                New Haven-Milford
+     US                New Orleans-Metairie-Kenner
+     GB                Newport
+     AU                Newport
+     HK                New Territories
+     US                New York
+     US                NEW YORK
+     US                New York-Northern New Jersey-Long Island
+     MX                Nezahualcóyotl
+     US                NEZ PERCE
+     ZA                Ngaka Modiri Molema
+     SI                NG Grčna
+     AU                Nicholson
+     ES                Niebla
+     AT                Niederösterreich
+     DE                Niedersachsen
+     PL                Niepołomice
+     FR                Nièvre
+     NL                Nijmegen
+     ME                Nikšić
+     US                Niles-Benton Harbor
+     RS                Nišavski upravni okrug
+     PL                Nisko
+     SK                Nitriansky kraj
+     ZA                Nkangala
+     US                NOBLE
+     MX                Nogales
+     US                Nogales
+     IN                Noida
+     IN                NOIDA
+     ZA                None
+     TH                Nong Khai
+     TH                Nonthaburi
+     FR                Nord
+     DK                Nordjylland
+     DE                Nordrhein-Westfalen
+     US                NORFOLK
+     SE                Norrbotten
+     GB                Northampton
+     US                NORTHAMPTON
+     FI                Northern Ostrobothnia
+     FI                Northern Savonia
+     AU                Northern Tablelands
+     FI                North Karelen
+     GB                North West & Merseyside
+     AU                North-west Slopes
+     CA                NORTHWEST TERRITORIES
+     GB                Norwich
+     US                Norwich-New London
+     GB                Nottingham
+     IT                Novara
+     CA                NOVA SCOTIA
+     SI                Novo mesto
+     PL                Nowa Ruda
+     PL                Nowa Sól
+     US                NOWATA
+     PL                Nowiny
+     PL                Nowy Sącz
+     PL                Nowy Targ
+     US                NPS
+     HK                N.T.
+     MX                Nueva Oxtotitlán
+     MX                NUEVO LEON
+     IT                Nuoro
+     US                NYE
+     PL                Nysa
+     US                Oakland
+     MX                Oaxaca de Juárez
+     AT                Oberösterreich
+     US                Ocala
+     US                Odessa
+     US                Ogden-Clearfield
+     FR                Oise
+     US                OKANOGAN
+     US                Oklahoma City
+     PL                Oława
+     IT                Olbia-Tempio
+     GB                Oldbury
+     PL                Olesno
+     US                OLIVER
+     PL                Olkusz
+     CZ                Olomoucký
+     PL                Olsztyn
+     RO                Olt
+     US                Olympia
+     US                Omaha-Council Bluffs
+     AU                Omeo
+     US                ONEIDA
+     CA                ONTARIO
+     BE                Oost-Vlaanderen
+     PL                Opatów
+     PL                Opole
+     FR                ORA
+     FR                ORAMIP
+     US                ORANGE
+     AU                Orbost
+     TR                Ordu
+     SE                Örebro
+     IT                Oristano
+     US                Orlando-Kissimmee
+     FR                Orne
+     BR                Osasco
+     PL                Osieczów
+     HR                Osjecko-baranjska
+     NO                Oslo
+     CL                Osorno
+     IT                OSTELLATO
+     SE                Östergötland
+     FI                Ostrobothnia
+     PL                Ostróda
+     PL                Ostrowiec Świętokrzyski
+     PL                Oświęcim
+     US                OTTAWA
+     PL                Otwock
+     NL                Oude Meer
+     ES                Ourense
+     US                OUTAGAMIE
+     ZA                Overberg
+     US                Owensboro
+     GB                Oxford
+     US                OXFORD
+     US                Oxnard-Thousand Oaks-Ventura
+     PL                Pabianice
+     MX                Pachuca de Soto
+     US                PACIFIC
+     IT                Padova
+     CL                Padre las Casas
+     US                Paducah
+     FI                Paijanne Tavastia
+     ES                Palencia
+     IN                Pali
+     US                Palm Bay-Melbourne-Titusville
+     US                PALM BEACH
+     US                PALO ALTO
+     IN                Palwal
+     IN                Palwal 
+     US                Panama City-Lynn Haven
+     IN                Panchkula
+     LT                Panevežys
+     IN                Panipat
+     CL                Panquehue
+     CZ                Pardubický
+     FR                Paris
+     US                PARK
+     US                Parkersburg-Marietta-Vienna
+     IT                Parma
+     IT                PARMA
+     PL                Parzniewice
+     US                Pascagoula
+     FR                Pas-de-Calais
+     TH                Pathum Thani
+     IN                Patiala
+     IN                Patna
+     BR                Paulínia
+     BR                Paulínia-Sta Terezinha
+     BR                Paulínia Sul
+     IT                Pavia
+     US                Payson
+     RS                Pčinjski upravni okrug
+     GB                Peebles
+     XK                Peje
+     US                Pendleton-Hermiston
+     US                PEND OREILLE
+     US                PENOBSCOT
+     US                Pensacola-Ferry Pass-Brent
+     US                Peoria
+     NL                Pernis
+     US                PERRY
+     US                PERSON
+     IT                Perugia
+     BR                Perus
+     IT                Pesaro E Urbino
+     IT                Pescara
+     PK                Peshawar
+     MX                Pesquería
+     HU                Pest
+     TH                Phayao
+     TH                Phetchabun
+     TH                Phetchaburi
+     TH                Phichit
+     US                PHILADELPHIA
+     US                Philadelphia-Camden-Wilmington
+     NL                Philippine
+     US                PHILLIPS
+     TH                Phitsanulok
+     US                Phoenix Lake-Cedar Ridge
+     US                Phoenix-Mesa-Scottsdale
+     TH                Phrae
+     TH                Phra Nakhon Si Ayutthaya
+     TH                Phuket
+     IT                Piacenza
+     IT                PIACENZA
+     PL                Piastów
+     US                PICKENS
+     BR                Pico do Jaraguá
+     US                PIKE
+     PL                Piła
+     US                PIMA
+     US                PINAL
+     PL                Pińczów
+     US                PINELLAS
+     PL                Piotrków Trybunalski
+     BR                Piracicaba
+     FI                Pirkanmaa
+     IT                Pisa
+     IT                Pistoia
+     IN                Pithampur
+     US                PITKIN
+     US                Pittsburgh
+     US                Pittsfield
+     US                PLACER
+     PL                Pleszew
+     ME                Pljevlja
+     PL                Płock
+     BG                Plovdiv
+     US                PLUMAS
+     GB                Plymouth
+     US                PLYMOUTH
+     CZ                Plzeňský
+     US                Pocatello
+     ME                Podgorica
+     RS                Podunavski upravni okrug
+     AU                Point Cook
+     PL                Polańczyk
+     PL                Połaniec
+     PL                Połczyn-Zdrój
+     US                POLK
+     US                Ponca City
+     US                PONCE
+     ES                Pontevedra
+     IT                PORRETTA TERME
+     US                Port Angeles
+     AU                Port Augusta
+     US                Portland-South Portland-Biddeford
+     US                Portland-Vancouver-Beaverton
+     PT                Porto
+     AU                Port Pirie
+     US                Portsmouth
+     GB                Portsmouth
+     GB                Port Talbot
+     NL                Posterholt
+     IT                Potenza
+     US                Poughkeepsie-Newburgh-Middletown
+     US                POWDER RIVER
+     MX                Poza Rica de Hidalgo
+     PL                Poznań
+     TH                Prachin Buri
+     MX                Prados de Villasunción
+     RO                Prahova
+     IT                Prato
+     IN                Prayagraj
+     US                Prescott
+     BR                Presidente Prudente
+     SK                Prešovský kraj
+     NO                Prestebakke
+     GB                Preston
+     HR                Primorsko-goranska
+     US                PRINCE EDWARD
+     CA                PRINCE EDWARD ISLAND
+     US                Prineville
+     XK                Prishtine
+     XK                Pristina
+     XK                Prizren
+     US                Providence-New Bedford-Fall River
+     US                Provo-Orem
+     US                PROXY SITE - CA - CONSTANT
+     PL                Prudnik
+     PL                Przemyśl
+     SI                Ptuj
+     CL                Puchuncaví
+     CL                Pudahuel
+     IN                Puducherry
+     MX                Puebla
+     CL                Puente Alto
+     CL                Puerto Montt
+     CL                Puerto Varas
+     PL                Puławy
+     US                Pullman
+     IN                Pune
+     CL                Punta Arenas
+     MX                Purísima del Rincón
+     IN                Purnia
+     US                PUTNAM
+     FR                Puy-de-Dôme
+     FR                Pyrénées-Atlantiques
+     FR                Pyrénées-Orientales
+     CA                QUEBEC
+     MX                Querétaro
+     CL                Quilicura
+     CL                Quillón
+     CL                Quillota
+     CL                Quilpue
+     US                Quincy
+     CL                Quintero
+     EC                Quito
+     PL                Rabka-Zdrój
+     PL                Racibórz
+     US                RACINE
+     PL                Radom
+     PL                Radomsko
+     PL                Radzyń Podlaski
+     IN                Raichur
+     IN                Rajamahendravaram
+     IN                Rajgir
+     US                Raleigh-Cary
+     IN                Ramanagara
+     US                RAMSEY
+     CL                Rancagua
+     US                RANDOLPH
+     CL                Ránquil
+     US                Rapid City
+     RS                Rasinski upravni okrug
+     RS                Raški upravni okrug
+     TH                Ratchaburi
+     IN                Ratlam
+     US                RAVALLI
+     IT                Ravenna
+     IT                RAVENNA
+     TH                Rayong
+     US                Reading
+     GB                Reading
+     US                Red Bluff
+     GB                Redbridge
+     US                Redding
+     US                Red Wing
+     IT                Reggio Di Calabria
+     IT                Reggio Nell'Emilia
+     IT                REGGIO NELL'EMILIA
+     IL                Rehovot
+     GB                Reigate and Banstead
+     CL                Rengo
+     US                Reno-Sparks
+     FR                Reunion
+     IS                Reyðarfjörður
+     IS                Reykjanesbær
+     IS                Reykjavík
+     LV                Rezekne
+     DE                Rheinland-Pfalz
+     FR                Rhône
+     BR                Ribeirão Preto
+     ZA                Richards Bay
+     US                RICHLAND
+     US                Richmond
+     GB                Richmond
+     NL                Ridderkerk
+     IT                Rieti
+     LV                Riga
+     IT                Rimini
+     IT                RIMINI
+     US                RIO ARRIBA
+     US                RIO BLANCO
+     BR                Rio Claro-Jd.Guanabara
+     US                RIVERSIDE
+     US                Riverside-San Bernardino-Ontario
+     US                Riverton
+     TR                Rize
+     US                Roanoke
+     US                Rochester
+     GB                Rochester
+     US                ROCK
+     US                ROCKBRIDGE
+     US                Rockford
+     US                ROCKINGHAM
+     US                ROCKLAND
+     US                Rock Springs
+     US                Rocky Mount
+     IN                Rohtak
+     TH                Roi Et
+     IT                Roma
+     US                Rome
+     US                ROSEBUD
+     US                Roseburg
+     AU                Rosedale
+     GB                Rother
+     NL                Rotterdam
+     NL                Rotterdam Noord 
+     NL                Rotterdam Zuid
+     IT                Rovigo
+     LV                Rucavas
+     PL                Rudnik nad Sanem
+     IN                Rupnagar
+     US                Rutland
+     PL                Rybnik
+     PL                Rymanów-Zdrój
+     PL                Rzeszów
+     EE                Saaremaa
+     DE                Saarland
+     CO                Sabaneta
+     DE                Sachsen
+     DE                Sachsen-Anhalt
+     US                SACRAMENTO
+     US                Sacramento--Arden-Arcade--Roseville
+     US                SAGADAHOC
+     IN                Sagar
+     IN                Saharsa
+     HK                Sai Kung
+     FR                Sainte-Luce
+     FR                Saint-Leu
+     FR                Saint-Pierre
+     TH                Sa Kaeo
+     TR                Sakarya
+     TH                Sakon Nakhon
+     RO                Sălaj
+     CL                Salamanca
+     ES                Salamanca
+     MX                Salamanca
+     US                Salem
+     IT                Salerno
+     US                Salinas
+     US                Salisbury
+     GB                Saltash
+     MX                Saltillo
+     US                Salt Lake City
+     AT                Salzburg
+     IN                Samastipur
+     TR                Samsun
+     TH                Samut Prakan
+     TH                Samut Sakhon
+     TH                Samut Songkhram
+     US                San Antonio
+     US                SAN BENITO
+     US                SAN BERNARDINO
+     CL                San Carlos
+     IT                SAN CLEMENTE
+     MX                San Cristóbal Huichochitlán
+     US                SANDERS
+     US                SAN DIEGO
+     US                San Diego-Carlsbad-San Marcos
+     PL                Sandomierz
+     US                SANDOVAL
+     NO                Sandve
+     GB                Sandy
+     CL                San Fernando
+     US                San Francisco Bay Area
+     US                San Francisco-Oakland-Fremont
+     CR                San Jose
+     US                San Jose-Sunnyvale-Santa Clara
+     MX                San Juan
+     US                SAN JUAN
+     US                San Juan-Caguas-Guaynabo
+     MX                San Juan del Río
+     CH                Sankt Gallen
+     IT                SAN LAZZARO DI SAVENA
+     IT                SAN LEO
+     MX                San Luis de la Paz
+     US                SAN LUIS OBISPO
+     US                San Luis Obispo-Paso Robles
+     MX                San Luis Potosí
+     MX                San Nicolás de los Garza
+     PL                Sanok
+     MX                San Pedro Garza García
+     US                Santa Barbara-Santa Maria
+     MX                Santa Catarina
+     ES                Santa Cruz de Tenerife
+     US                Santa Cruz-Watsonville
+     MX                Santa Elena
+     US                Santa Fe
+     BR                Santa Gertrudes
+     PT                Santarém
+     US                Santa Rosa-Petaluma
+     CL                Santiago
+     BR                Santo André
+     BR                Santos
+     BR                São Bernardo do Campo
+     BR                São Caetano do Sul
+     BR                São José do Rio Preto
+     BR                São José Do Rio Preto
+     BR                São José dos Campos
+     FR                Saône-et-Loire
+     BR                Sao Paulo
+     BR                São Paulo
+     TH                Saraburi
+     BA                Sarajevo
+     US                Sarasota-Bradenton-Venice
+     NO                Sarpsborg
+     AU                Sarsfield
+     FR                Sarthe
+     IN                Sasaram
+     CA                SASKATCHEWAN
+     IT                Sassari
+     IT                SASSUOLO
+     FI                Satakunta
+     IN                Satna
+     RO                Satu Mare
+     TH                Satun
+     US                Sault Ste. Marie
+     US                Savannah
+     IT                SAVIGNANO SUL RUBICONE
+     FR                Savoie
+     IT                Savona
+     US                SC0
+     NL                Schiedam
+     DE                Schleswig-Holstein
+     FR                Schoelcher
+     US                SCHOOLCRAFT
+     CH                Schwyz
+     US                SCOTT
+     US                Scottsbluff
+     US                Scranton--Wilkes-Barre
+     GB                Scunthorpe
+     US                Seaford
+     US                Seattle-Tacoma-Bellevue
+     US                Sebring
+     ZA                Sedibeng
+     ES                Segovia
+     FR                Seine-et-Marne
+     FR                Seine-Maritime
+     FR                Seine-Saint-Denis
+     ZA                Sekhukhune
+     US                Seneca
+     PT                Setúbal
+     GB                Sevenoaks
+     RS                Severnobanatski upravni okrug
+     US                SEVIER
+     US                Sevierville
+     ES                Sevilla
+     BG                Sevlievo
+     US                Seymour
+     CN                Shanghai
+     US                SHEBOYGAN
+     GB                Sheffield
+     US                Shelton
+     CN                Shenyang
+     US                Sheridan
+     US                SHERIDAN
+     US                SHERMAN
+     IN                Shillong
+     IN                Shivamogga
+     US                SHOSHONE
+     US                Shreveport-Bossier City
+     LT                Šiauliai
+     RO                Sibiu
+     GB                Sibton
+     PL                Siedlce
+     IT                Siena
+     PL                Sierpc
+     CL                Sierra Gorda
+     US                Sierra Vista-Douglas
+     MX                Silao de la Victoria
+     IN                Siliguri
+     US                SILVER BOW
+     US                SIMPSON
+     AU                SIMS Metals Laverton North Site 1
+     AU                SIMS Metals Laverton North Site 2
+     SG                Singapore
+     TH                Sing Buri
+     AU                Singleton
+     IN                Singrauli
+     TR                Sinop
+     US                Sioux City
+     US                Sioux Falls
+     IN                Sirsa
+     HR                Sisacko-moslavacka
+     TH                Sisaket
+     US                SISKIYOU
+     TR                Sivas
+     IN                Siwan
+     DK                Sjælland
+     US                SKAGIT
+     SE                Skåne
+     PL                Skarżysko-Kamienna
+     PL                Skawina
+     PL                Słupsk
+     PL                Smolary Bytnickie
+     BG                Sofia
+     IT                SOGLIANO AL RUBICONE
+     IN                Solapur
+     PL                Solec Kujawski
+     SI                Solkan
+     US                Somerset
+     US                SOMERSET
+     FR                Somme
+     IT                Sondrio
+     TH                Songkhla
+     IN                Sonipat
+     US                SONOMA
+     US                SONORA
+     PL                Sopot
+     IT                SORBOLO
+     ES                Soria
+     BR                Sorocaba
+     NO                Sør-Varanger
+     PL                Sosnowiec
+     GB                Southampton
+     US                South Bend-Mishawaka
+     IE                South Dublin
+     GB                South East
+     AU                South East Queensland
+     GB                Southend On Sea
+     AU                Southern Tablelands
+     FI                South Karelia
+     GB                Southwark
+     GB                South West
+     FI                Southwest Finland
+     AU                South West Queensland
+     AU                South-west Slopes
+     US                Spartanburg
+     HR                Splitsko-dalmatinska
+     US                Spokane
+     US                SPOKANE
+     AU                Spotswood
+     US                Springfield
+     IN                Srinagar
+     PL                Środa Śląska
+     AU                St Albans
+     GB                Stanford-le-Hope
+     PL                Starachowice
+     US                State College
+     NO                Stavanger
+     US                ST. BERNARD
+     DE                Stefan Jacobi
+     US                STE GENEVIEVE
+     AT                Steiermark
+     US                STEVENS
+     US                St. George
+     US                ST. JAMES
+     US                St. Joseph
+     US                St. Louis
+     US                ST. LOUIS
+     US                ST. LOUIS (CITY)
+     US                ST. LUCIE
+     US                St. Marys
+     GB                Stockbridge
+     SE                Stockholm
+     US                Stockton
+     GB                Stockton-on-Tees
+     GB                Stoke-on-Trent
+     GB                Storrington
+     GB                St Osyth
+     GB                Strath Vaich
+     CZ                Středočeský
+     PL                Strzelce Opolskie
+     US                SUBLETTE
+     RO                Suceava
+     PL                Sucha Beskidzka
+     US                SUFFOLK
+     TH                Sukhothai
+     PL                Sulęcin
+     RS                Šumadijski upravni okrug
+     US                Summerville
+     US                SUMMIT
+     US                SUMTER
+     GB                Sunderland
+     AU                Sunshine West
+     TH                Suphun Buri
+     TH                Surat Thani
+     US                SUSQUEHANNA
+     US                SUTTER
+     GB                Sutton
+     PL                Suwałki
+     CN                Suzhou
+     US                SWAIN
+     AU                Swan Hill
+     GB                Swansea
+     US                SWEETWATER
+     GB                Swfrryd
+     PL                Świebodzin
+     AU                Swift's Creek
+     DK                Syddanmark
+     AU                Sydney East
+     AU                Sydney North-west
+     AU                Sydney South-west
+     US                Syracuse
+     HU                Szabolcs-Szatmár-Bereg
+     PL                Szamotuły
+     PL                Szarów
+     PL                Szczawnica
+     PL                Szczecin
+     PL                Szczecinek
+     PL                Szczytno
+     PL                Szymbark
+     BR                Taboão da Serra
+     US                Tahlequah
+     TH                Tak
+     CL                Talagante
+     CL                Talca
+     CL                Talcahuano
+     IN                Talcher
+     US                Tallahassee
+     US                Tampa-St. Petersburg-Clearwater
+     US                TANEY
+     US                Taos
+     HK                Tap Mun Police Post
+     IT                Taranto
+     FR                Tarn
+     PL                Tarnobrzeg
+     PL                Tarnów
+     ES                Tarragona
+     EE                Tartumaa
+     AU                Tasmania Region
+     BR                Tatuí
+     BR                Taubaté
+     US                TAYLOR
+     MX                Tecate
+     TR                Tekirdağ
+     RO                Teleorman
+     LT                Telšiai
+     CL                Temuco
+     GB                Tendring
+     MX                Tepeapulco
+     MX                Tepeji del Río de Ocampo
+     MX                Tepic
+     MX                Tepotzotlán
+     IT                Teramo
+     IT                Terni
+     US                Terre Haute
+     FR                Territoire de Belfort
+     ES                Teruel
+     US                TETON
+     MK                Tetovo Municipality
+     US                Texarkana
+     IN                Thane
+     IN                Thiruvananthapuram
+     AU                Thomastown East
+     US                Thomasville-Lexington
+     IN                Thoothukudi
+     IN                Thrissur
+     CH                Thurgau
+     DE                Thüringen
+     GB                Thurrock
+     CH                Ticino
+     CL                Tierra Amarilla
+     MX                Tijuana
+     US                TILLAMOOK
+     RO                Timiş
+     US                TIOGA
+     AT                Tirol
+     IN                Tirupati
+     MX                Tizayuca
+     MX                Tláhuac
+     MX                Tlajomulco de Zúñiga
+     MX                Tlalnepantla de Baz
+     MX                Tlaquepaque Centro
+     MX                Tlaxcala
+     CL                Tocopilla
+     TR                Tokat
+     US                Toledo
+     ES                Toledo
+     MX                Toluca
+     CL                Tomé
+     MX                Tonalá
+     CN                Tongling
+     NO                Tønsberg
+     US                TOOELE
+     US                Topeka
+     IT                Torino
+     US                Torrington
+     PL                Toruń
+     GB                Tower Hamlets
+     AU                Townsville
+     TR                Trabzon
+     TH                Trang
+     AU                Traralgon
+     TH                Trat
+     US                Traverse City
+     SI                Trbovlje
+     US                TREGO
+     SK                Trenciansky kraj
+     IT                Trento
+     US                Trenton-Ewing
+     IT                Treviso
+     US                TRINITY
+     SK                Trnavský kraj
+     NO                Troll
+     NO                Tromsø
+     NO                Trondheim
+     US                Truckee-Grass Valley
+     PL                Trzebinia
+     PL                Trzebnica
+     US                TUCKER
+     US                Tucson
+     MX                Tula de Allende
+     MX                Tulancingo de Bravo
+     US                TULARE
+     RO                Tulcea
+     US                Tulsa
+     US                TULSA
+     MX                Tultitlán
+     US                TUOLUMNE
+     US                Tupelo
+     US                Tuscaloosa
+     US                TUSCOLA
+     NO                Tustervatn
+     MX                Tuxtla Gutiérrez
+     BA                Tuzla
+     US                TWIN FALLS
+     PL                Tychy
+     US                Tyler
+     TH                Ubon Ratchathani
+     IN                Udaipur
+     TH                Udon Thani
+     IN                Udupi
+     US                UINTAH
+     IN                Ujjain
+     US                Ukiah
+     MN                Ulaanbaatar
+     ZA                uMgungundlovu
+     US                UNION
+     IE                unused
+     FR                unused
+     AD                unused
+     CY                unused
+     IT                unused
+     SE                Uppsala
+     CZ                Ústecký
+     PL                Ustroń
+     US                UTAH
+     LT                Utena
+     TH                Uthai Thani
+     US                Utica-Rome
+     NL                Utrecht
+     TH                Uttaradit
+     FI                Uusimaa
+     CH                Valais
+     RO                Vâlcea
+     FR                Val-de-Marne
+     CL                Valdivia
+     FR                Val-d'Oise
+     US                Valdosta
+     ES                Valencia/València
+     ES                Valladolid
+     US                Vallejo-Fairfield
+     US                VALLEY
+     CL                Valparaíso
+     NL                Valthermond
+     US                VAN BUREN
+     IN                Vapi
+     FR                Var
+     IN                Varanasi
+     IT                Varese
+     RO                Vaslui
+     SE                Västerbotten
+     SE                Västernorrland
+     SE                Västra Götaland
+     IN                Vatva
+     FR                Vaucluse
+     CH                Vaud
+     NL                Veldhoven
+     MK                Veles Municipality
+     NL                Velsen
+     FR                Vendée
+     IT                Venezia
+     LV                Ventspils
+     MX                Venustiano Carranza
+     MX                Veracruz
+     IT                Verbano-Cusio-Ossola
+     IT                Vercelli
+     US                Vero Beach
+     IT                Verona
+     IT                VERUCCHIO
+     HU                Veszprém
+     PT                Viana do Castelo
+     IT                Vibo Valentia
+     IT                Vicenza
+     US                Victoria
+     FR                Vienne
+     LA                Vientiane
+     IN                Vijayapura
+     IN                Vijayawada
+     PT                Vila Real
+     US                VILAS
+     MX                Villa de las Flores
+     IT                VILLA MINOZZO
+     ES                Villanueva Del Arzobispo
+     LT                Vilnius
+     CL                Viña del Mar
+     US                Vincennes
+     US                Vineland-Millville-Bridgeton
+     US                Virginia Beach-Norfolk-Newport News
+     IN                Visakhapatnam
+     US                Visalia-Porterville
+     PT                Viseu
+     IT                Viterbo
+     BE                Vlaams-Brabant
+     NL                Vlaardingen
+     IS                Vogar
+     AT                Vorarlberg
+     FR                Vosges
+     RO                Vrancea
+     NL                Vredepeel
+     IN                Vrindavan
+     CZ                Vysočina
+     US                Wabash
+     US                Waco
+     PL                Wadowice
+     PL                Wałbrzych
+     US                WALKER
+     US                Walla Walla
+     US                WALLOWA
+     US                Walterboro
+     GB                Wandsworth
+     AU                Wangaratta
+     AU                Warburton
+     US                WARD
+     US                Warner Robins
+     US                WARREN
+     GB                Warrington
+     PL                Warszawa
+     US                WASCO
+     US                Washington
+     US                WASHINGTON
+     US                Washington-Arlington-Alexandria
+     ZA                Waterberg
+     US                Waterloo-Cedar Falls
+     US                Watertown-Fort Drum
+     US                Wausau
+     US                WAYNE
+     GB                Wealden
+     US                Weirton-Steubenville
+     NL                Wekerom
+     US                WELD
+     US                Wenatchee
+     ZA                West Coast
+     NL                Westmaas
+     GB                West Midlands
+     GB                Westminster
+     US                WESTON
+     ZA                West Rand
+     BE                West-Vlaanderen
+     IE                Wexford
+     US                WEXFORD
+     GB                Weybourne
+     US                WHATCOM
+     US                Wheeling
+     US                WHITE PINE
+     US                Whitewater
+     US                WHITLEY
+     AU                Whyalla
+     US                Wichita
+     GB                Wicken Fen
+     IE                Wicklow
+     GB                Widnes
+     PL                Widuchowa
+     AT                Wien
+     PL                Wieniec-Zdrój
+     NL                Wieringerwerf
+     GB                Wigan
+     NL                Wijk aan Zee
+     NL                Wijnandsrade
+     PL                Wilczopole
+     GB                Willenhall
+     US                Williamsport
+     US                Willimantic
+     US                Wilmington
+     US                Winchester
+     GB                Windsor and Maidenhead
+     US                Winston-Salem
+     PL                Włocławek
+     AU                Wodonga
+     PL                Wodzisław Śląski
+     US                Worcester
+     US                WORCESTER
+     GB                Wrexham
+     PL                Wrocław
+     PL                Wschowa
+     CN                Wuhu
+     US                WYOMING
+     US                WYTHE
+     MX                Xalapa
+     MX                Xonacatlán
+     IN                Yadgir
+     US                Yakima
+     US                YAKIMA
+     TH                Yala
+     US                YALOBUSHA
+     TR                Yalova
+     IN                Yamunanagar
+     IN                Yamuna Nagar
+     US                YANCEY
+     GB                Yarner Wood
+     US                YELLOWSTONE
+     AU                Yinnar
+     FR                Yonne
+     GB                York
+     US                YORK
+     US                York-Hanover
+     GB                Yorkshire
+     GB                Yorkshire & Humberside
+     US                Youngstown-Warren-Boardman
+     TR                Yozgat
+     US                Yuba City
+     US                YUKON-KOYUKUK
+     US                Yuma
+     FR                Yvelines
+     NL                Zaandam
+     NL                Zaanstad
+     PL                Zabierzów
+     PL                Ząbkowice Śląskie
+     PL                Zabrze
+     MX                Zacatecas
+     MX                Zacatepec
+     PL                Żagań
+     SI                Zagorje
+     HR                Zagrebacka
+     RS                Zaječarski upravni okrug
+     PL                Zakopane
+     ES                Zamora
+     PL                Zamość
+     MX                Zapopan
+     ES                Zaragoza
+     MX                Zaragoza
+     PL                Żary
+     PL                Zawiercie
+     PL                Zdzieszowice
+     NL                Zegveld
+     MT                Zejtun (Citta' Beland)
+     BA                Zenica
+     NO                Zeppelinfjellet
+     PL                Zgierz
+     PL                Zgorzelec
+     PL                Zielona Góra
+     PL                Zielonka
+     NL                Zierikzee
+     SK                Žilinský kraj
+     BA                Živinice
+     CZ                Zlínský
+     PL                Złoty Potok
+     TR                Zonguldak
+     PL                Żory
+     CH                Zürich
+     PL                Żyrardów
+     PL                Żywiec
+     IL                איזור יהודה
+     IL                אילת
+     IL                גוש דן
+     IL                חיפה וקריות
+     IL                ירושלים
+     IL                מישור החוף הדרומי
+     IL                עמק יזרעאל
+     IL                צפון
+     IL                צפון הנגב
+     IL                שומרון
+     IL                שפלה פנימית
+     IL                שרון
+     IL                תחנות ניידות
+     GR                ΑΤΤΙΚΗ
+     GR                ΔΥΤΙΚΗ ΕΛΛΑΔΑ
+     GR                ΘΕΣΣΑΛΙΑ
+     GR                ΚΕΝΤΡΙΚΗ ΜΑΚΕΔΟΝΙΑ
+     CY                Λευκωσία
+     GR                ΣΤΕΡΕΑ ΕΛΛΑΔΑ
+     MN                Алтай хот
+     MN                Арвайхээр хот
+     MN                Баруун-Урт хот
+     MN                Баянхонгор хот
+     BG                Благоевград
+     MN                Булган хот
+     BG                Бургас
+     BG                Варна
+     BG                Велико Търново
+     BG                Враца
+     MN                Даланзадгад хот
+     MN                Дархан хот
+     BG                Добрич
+     MN                Зуунмод хот
+     BG                Кърджали
+     BG                Ловеч
+     MN                Мандалговь хот
+     MN                Мандал сум
+     MN                Мөрөн хот
+     MN                Өлгий хот
+     BG                Пловдив
+     BG                Русе
+     MN                Сайншанд хот
+     BG                Сливен
+     BG                Смолян
+     BG                София (столица)
+     BG                Стара Загора
+     MN                Сүхбаатар хот
+     MN                Улаангом хот
+     MN                Улиастай хот
+     BG                Хасково
+     MN                Ховд хот
+     MN                Цэцэрлэг хот
+     MN                Чингис хот
+     MN                Чойбалсан хот
+     MN                Чойр хот
+     MN                Шарын гол сум
+     BG                Шумен
+     MN                Эрдэнэт хот
+     CN                七台河市
+     CN                三亚市
+     CN                三明市
+     CN                三门峡市
+     CN                上海市
+     CN                上饶市
+     CN                东莞市
+     CN                东营市
+     CN                中卫市
+     CN                中山市
+     CN                临夏回族自治州
+     CN                临夏州
+     CN                临安市
+     CN                临汾市
+     CN                临沂市
+     CN                临沧市
+     CN                丹东市
+     CN                丽水市
+     CN                丽江市
+     CN                义乌市
+     CN                乌兰察布市
+     CN                乌海市
+     CN                乌鲁木齐市
+     CN                乐山市
+     CN                九江市
+     CN                乳山市
+     CN                云浮市
+     CN                五家渠市
+     CN                亳州市
+     CN                伊春市
+     CN                伊犁哈萨克州
+     CN                佛山市
+     CN                佳木斯市
+     CN                保定市
+     CN                保山市
+     CN                信阳市
+     CN                儋州市
+     CN                克孜勒苏柯尔克孜自治州
+     CN                克拉玛依市
+     CN                六安市
+     CN                六盘水市
+     CN                兰州市
+     CN                兰州新区
+     CN                兴安盟
+     CN                内江市
+     CN                凉山州
+     CN                凉山彝族自治州
+     CN                包头市
+     CN                北京市
+     CN                北海市
+     CN                十堰市
+     CN                南京市
+     CN                南充市
+     CN                南宁市
+     CN                南平市
+     TW                南投縣
+     CN                南昌市
+     CN                南通市
+     CN                南阳市
+     CN                博尔塔拉蒙古自治州
+     CN                博州
+     CN                即墨市
+     CN                厦门市
+     CN                双鸭山市
+     CN                句容市
+     CN                台州市
+     CN                合肥市
+     CN                吉安市
+     CN                吉林市
+     CN                吐鲁番地区
+     CN                吕梁市
+     CN                吴忠市
+     CN                吴江市
+     CN                周口市
+     CN                呼伦贝尔市
+     CN                呼和浩特市
+     CN                和田地区
+     CN                咸宁市
+     CN                咸阳市
+     CN                哈密地区
+     CN                哈尔滨市
+     CN                唐山市
+     CN                商丘市
+     CN                商洛市
+     CN                喀什地区
+     CN                嘉兴市
+     CN                嘉峪关市
+     TW                嘉義市
+     TW                嘉義縣
+     CN                四平市
+     CN                固原市
+     TW                基隆市
+     CN                塔城地区
+     CN                大兴安岭地区
+     CN                大同市
+     CN                大庆市
+     CN                大理州
+     CN                大连市
+     CN                天水市
+     CN                天津市
+     CN                太仓市
+     CN                太原市
+     CN                威海市
+     CN                娄底市
+     CN                孝感市
+     CN                宁德市
+     CN                宁波市
+     CN                安庆市
+     CN                安康市
+     CN                安阳市
+     CN                安顺市
+     CN                定西市
+     CN                宜兴市
+     CN                宜宾市
+     CN                宜昌市
+     CN                宜春市
+     TW                宜蘭縣
+     CN                宝鸡市
+     CN                宣城市
+     CN                宿州市
+     CN                宿迁市
+     CN                富阳市
+     CN                寿光市
+     TW                屏東縣
+     CN                山南市
+     CN                岳阳市
+     CN                崇左市
+     CN                巴中市
+     CN                巴彦淖尔市
+     CN                巴音郭楞州
+     CN                常州市
+     CN                常德市
+     CN                常熟市
+     CN                平凉市
+     CN                平度市
+     CN                平顶山市
+     CN                广元市
+     CN                广安市
+     CN                广州市
+     CN                庆阳市
+     CN                廊坊市
+     CN                延安市
+     CN                延边朝鲜族自治州
+     CN                开封市
+     CN                张家口市
+     CN                张家港市
+     CN                张家界市
+     CN                张掖市
+     TW                彰化縣
+     CN                徐州市
+     CN                德宏州
+     CN                德州市
+     CN                德阳市
+     CN                忻州市
+     CN                怀化市
+     CN                怒江州
+     CN                恩施土家族苗族自治州
+     CN                惠州市
+     CN                成都市
+     CN                扬州市
+     CN                承德市
+     CN                抚州市
+     CN                抚顺市
+     CN                拉萨市
+     CN                招远市
+     CN                揭阳市
+     CN                攀枝花市
+     CN                文山州
+     CN                文登市
+     CN                新乡市
+     CN                新余市
+     TW                新北市
+     TW                新竹市
+     TW                新竹縣
+     CN                无锡市
+     CN                日喀则市
+     CN                日照市
+     CN                昆山市
+     CN                昆明市
+     CN                昌吉州
+     CN                昌都市
+     CN                昭通市
+     CN                晋中市
+     CN                晋城市
+     CN                普洱市
+     CN                景德镇市
+     CN                曲靖市
+     CN                朔州市
+     CN                朝阳市
+     CN                本溪市
+     CN                来宾市
+     CN                杭州市
+     CN                松原市
+     CN                林芝市
+     CN                果洛藏族自治州
+     CN                枣庄市
+     CN                柳州市
+     CN                株洲市
+     CN                桂林市
+     TW                桃園市
+     CN                梅州市
+     CN                梧州市
+     CN                楚雄州
+     CN                榆林市
+     CN                武威市
+     CN                武汉市
+     CN                毕节市
+     CN                永州市
+     CN                汉中市
+     CN                汕头市
+     CN                汕尾市
+     CN                江门市
+     CN                江阴市
+     CN                池州市
+     CN                沈阳市
+     CN                沧州市
+     CN                河池市
+     CN                河源市
+     CN                泉州市
+     CN                泰安市
+     CN                泰州市
+     CN                泸州市
+     CN                洛阳市
+     CN                济南市
+     CN                济宁市
+     CN                海东地区
+     CN                海北藏族自治州
+     CN                海南藏族自治州
+     CN                海口市
+     CN                海西蒙古族藏族自治州
+     CN                海门市
+     CN                淄博市
+     CN                淮北市
+     CN                淮南市
+     CN                淮安市
+     CN                深圳市
+     CN                清远市
+     CN                温州市
+     CN                渭南市
+     CN                湖州市
+     CN                湘潭市
+     CN                湘西州
+     CN                湛江市
+     CN                溧阳市
+     CN                滁州市
+     CN                滨州市
+     CN                漯河市
+     CN                漳州市
+     CN                潍坊市
+     CN                潮州市
+     TW                澎湖縣
+     CN                濮阳市
+     CN                烟台市
+     CN                焦作市
+     CN                牡丹江市
+     CN                玉林市
+     CN                玉树藏族自治州
+     CN                玉溪市
+     CN                珠海市
+     CN                瓦房店市
+     CN                甘南州
+     CN                甘孜藏族自治州
+     CN                白城市
+     CN                白山市
+     CN                白银市
+     CN                百色市
+     CN                益阳市
+     CN                盐城市
+     CN                盘锦市
+     CN                眉山市
+     CN                石嘴山市
+     CN                石家庄市
+     CN                石河子市
+     CN                福州市
+     CN                秦皇岛市
+     CN                红河州
+     CN                绍兴市
+     CN                绥化市
+     CN                绵阳市
+     CN                聊城市
+     CN                肇庆市
+     CN                胶南市
+     CN                胶州市
+     CN                自贡市
+     TW                臺中市
+     TW                臺北市
+     TW                臺南市
+     TW                臺東縣
+     CN                舟山市
+     CN                芜湖市
+     TW                花蓮縣
+     CN                苏州市
+     TW                苗栗縣
+     CN                茂名市
+     CN                荆州市
+     CN                荆门市
+     CN                荣成市
+     CN                莆田市
+     CN                莱州市
+     CN                莱西市
+     CN                菏泽市
+     CN                萍乡市
+     CN                营口市
+     CN                葫芦岛市
+     CN                蓬莱市
+     CN                蚌埠市
+     CN                衡水市
+     CN                衡阳市
+     CN                衢州市
+     CN                襄阳市
+     CN                西双版纳州
+     CN                西咸新区
+     CN                西宁市
+     CN                西安市
+     CN                许昌市
+     CN                诸暨市
+     CN                贵港市
+     CN                贵阳市
+     CN                贺州市
+     CN                资阳市
+     CN                赣州市
+     CN                赣江新区
+     CN                赤峰市
+     CN                辽源市
+     CN                辽阳市
+     CN                达州市
+     CN                运城市
+     CN                连云港市
+     CN                迪庆州
+     CN                通化市
+     CN                通辽市
+     TW                連江縣
+     CN                遂宁市
+     CN                遵义市
+     CN                邢台市
+     CN                那曲地区
+     CN                邯郸市
+     CN                邵阳市
+     CN                郑州市
+     CN                郴州市
+     CN                鄂尔多斯市
+     CN                鄂州市
+     CN                酒泉市
+     CN                重庆市
+     CN                金华市
+     CN                金坛市
+     CN                金昌市
+     TW                金門縣
+     CN                钦州市
+     CN                铁岭市
+     CN                铜仁地区
+     CN                铜川市
+     CN                铜陵市
+     CN                银川市
+     CN                锡林郭勒盟
+     CN                锦州市
+     CN                镇江市
+     CN                长春市
+     CN                长沙市
+     CN                长治市
+     CN                阜新市
+     CN                阜阳市
+     CN                防城港市
+     CN                阳江市
+     CN                阳泉市
+     CN                阿克苏地区
+     CN                阿勒泰地区
+     CN                阿坝州
+     CN                阿坝藏族羌族自治州
+     CN                阿拉善盟
+     CN                阿里地区
+     CN                陇南市
+     CN                随州市
+     CN                雄安新区
+     CN                雅安市
+     TW                雲林縣
+     CN                青岛市
+     CN                鞍山市
+     CN                韶关市
+     CN                马鞍山市
+     CN                驻马店市
+     TW                高雄市
+     CN                鸡西市
+     CN                鹤壁市
+     CN                鹤岗市
+     CN                鹰潭市
+     CN                黄冈市
+     CN                黄南藏族自治州
+     CN                黄山市
+     CN                黄石市
+     CN                黑河市
+     CN                黔东南苗族侗族自治州
+     CN                黔南布依族苗族自治州
+     CN                黔西南布依族苗族自治州
+     CN                齐齐哈尔市
+     CN                龙岩市
